@@ -1,0 +1,11 @@
+https://medium.com/@mosesesan/tutorial-4-how-to-build-a-laravel-5-4-jwt-powered-mobile-app-api-4c59109d35f
+
+https://medium.com/@mosesesan/tutorial-6-how-to-build-a-laravel-5-4-4ba44f26b853
+
+https://medium.com/@mosesesan/tutorial-6b-how-to-build-a-laravel-5-4-4a37d8394181
+
+https://medium.com/@mosesesan/tutorial-5-how-to-build-a-laravel-5-4-jwt-authentication-api-with-e-mail-verification-61d3f356f823
+
+https://scotch.io/tutorials/role-based-authentication-in-laravel-with-jwt
+
+https://blog.eleven-labs.com/fr/angular2-symfony3-comment-creer-rapidement-systeme-dauthentification/
